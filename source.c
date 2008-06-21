@@ -3,5 +3,6 @@
 int main (int argc, char **argv)
 {
 	printf ("Hello, World!\n");
+	printf ("Ola, Mundo!\n");
 	return 0;
 }
